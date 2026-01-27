@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xplorestartup.com/sitemap.xml
+Sitemap: https://xplorestartup.com/news-sitemap.xml

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Xplore Startup – Latest News</title>
+    <link>https://xplorestartup.com/</link>
+    <description>Startup news, funding rounds, technology insights, and ecosystem growth stories.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2026 10:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>MythWorx Secures $5M Seed Funding to Accelerate AI Innovation</title>
+      <link>https://xplorestartup.com/post-funding-round.html</link>
+      <guid>https://xplorestartup.com/post-funding-round.html</guid>
+      <pubDate>Tue, 23 Jan 2026 08:00:00 GMT</pubDate>
+      <description>
+        MythWorx raises $5M in seed funding to expand AI automation solutions across healthcare, finance, and supply chains.
+      </description>
+      <enclosure 
+        url="https://xplorestartup.com/assets/images/post-funding-round.png" 
+        type="image/png" />
+    </item>
+
+    <item>
+      <title>Top Technology Insights Driving Startups in 2026</title>
+      <link>https://xplorestartup.com/post-tech-insights.html</link>
+      <guid>https://xplorestartup.com/post-tech-insights.html</guid>
+      <pubDate>Mon, 22 Jan 2026 09:00:00 GMT</pubDate>
+      <description>
+        Key technology trends shaping startup innovation, from AI to automation and data-driven growth.
+      </description>
+      <enclosure 
+        url="https://xplorestartup.com/assets/images/post-tech-insights.png" 
+        type="image/png" />
+    </item>
+
+    <item>
+      <title>How Startup Ecosystems Are Fueling Economic Growth</title>
+      <link>https://xplorestartup.com/post-ecosystem-growth.html</link>
+      <guid>https://xplorestartup.com/post-ecosystem-growth.html</guid>
+      <pubDate>Sun, 21 Jan 2026 09:00:00 GMT</pubDate>
+      <description>
+        A deep dive into how startup ecosystems support innovation, job creation, and investment.
+      </description>
+      <enclosure 
+        url="https://xplorestartup.com/assets/images/post-ecosystem-growth.png" 
+        type="image/png" />
+    </item>
+
+    <item>
+      <title>Winning Business Strategies Every Startup Should Know</title>
+      <link>https://xplorestartup.com/post-business-strategy.html</link>
+      <guid>https://xplorestartup.com/post-business-strategy.html</guid>
+      <pubDate>Sat, 20 Jan 2026 09:00:00 GMT</pubDate>
+      <description>
+        Practical strategies to help startups scale, attract investors, and compete globally.
+      </description>
+      <enclosure 
+        url="https://xplorestartup.com/assets/images/post-business-strategy.png" 
+        type="image/png" />
+    </item>
+
+  </channel>
+</rss>

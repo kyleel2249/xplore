@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Tech Startup Secures $5M Seed Funding",
+    "url": "post-funding-round.html",
+    "date": "2026-01-22",
+    "author": "Jane Doe",
+    "category": "Funding",
+    "excerpt": "A rising AI startup closes a $5M seed round to accelerate product development and expand into new markets..."
+  },
+  {
+    "title": "Top 5 Emerging Tech Trends in 2026",
+    "url": "post-tech-insights.html",
+    "date": "2026-01-20",
+    "author": "John Smith",
+    "category": "Technology",
+    "excerpt": "From AI advancements to blockchain innovations, we explore five key technologies set to shape the startup ecosystem this year..."
+  },
+  {
+    "title": "Startup Ecosystem Flourishes in Africa",
+    "url": "post-ecosystem-growth.html",
+    "date": "2026-01-18",
+    "author": "Mary Johnson",
+    "category": "Ecosystem",
+    "excerpt": "Local hubs and incubators drive growth in the African startup ecosystem, providing funding, mentorship, and networking opportunities..."
+  },
+  {
+    "title": "5 Strategies Startups Use to Scale Fast",
+    "url": "post-business-strategy.html",
+    "date": "2026-01-15",
+    "author": "Alex Brown",
+    "category": "Business",
+    "excerpt": "Effective marketing, operational efficiency, and investor engagement are key strategies used by startups to scale rapidly in competitive markets..."
+  }
+]

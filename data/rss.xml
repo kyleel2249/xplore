@@ -1,0 +1,29 @@
+<script>
+fetch('data/posts.json')
+  .then(res => res.json())
+  .then(posts => {
+    let rssItems = posts.map(p => `
+      <item>
+        <title>${p.title}</title>
+        <link>https://xplorestartup.com/${p.url}</link>
+        <pubDate>${new Date(p.date).toUTCString()}</pubDate>
+        <description>${p.excerpt}</description>
+      </item>
+    `).join('');
+    
+    const rssFeed = `
+      <?xml version="1.0" encoding="UTF-8" ?>
+      <rss version="2.0">
+        <channel>
+          <title>Xplore Startup News</title>
+          <link>https://xplorestartup.com/news.html</link>
+          <description>Latest startup news and insights</description>
+          ${rssItems}
+        </channel>
+      </rss>
+    `;
+
+    // For demonstration: logs XML; in production save as rss.xml on server
+    console.log(rssFeed);
+});
+</script>

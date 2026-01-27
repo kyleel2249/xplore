@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Xplore Startup News</title>
+<link>https://yourdomain.com/news.html</link>
+<description>Startup news, funding, and tech insights</description>
+
+<item>
+<title>African Fintech Startup Raises $10M Series A</title>
+<link>https://yourdomain.com/article-fintech-funding.html</link>
+<description>Lagos fintech raises Series A funding.</description>
+<pubDate>Fri, 10 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+
+</channel>
+</rss>
